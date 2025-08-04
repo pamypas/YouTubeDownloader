@@ -1,0 +1,9 @@
+{
+  "name": "youtube_downloader",
+  "description": "YouTube downloader by link",
+  "path": "/home/an/youtubeDownloader/app/youtube_downloader.py",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://dhfpddenacccppnjlhchojdkfkpnfbhi/"
+  ]
+}
