@@ -7,6 +7,7 @@ import os
 from typing import Optional, Dict, Any
 from yt_dlp import YoutubeDL
 
+# Add logging, AI!
 
 def read_message() -> Optional[Dict[str, Any]]:
     """Чтение сообщения из stdin с соблюдением протокола"""
