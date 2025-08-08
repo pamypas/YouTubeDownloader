@@ -6,7 +6,6 @@ import os
 import struct
 import sys
 import traceback
-from pathlib import Path # Этот импорт действительно нужен? AI?
 from typing import Dict, Optional, Any
 
 from yt_dlp import YoutubeDL
